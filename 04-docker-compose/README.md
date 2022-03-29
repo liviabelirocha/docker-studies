@@ -1,9 +1,9 @@
-### Wordpress com MySQL
+### Wordpress with MySQL
 
-Para rodar
+To run
 
 `$ docker-compose up -d`
 
-Para parar
+To stop
 
 `$ docker-compose down`
